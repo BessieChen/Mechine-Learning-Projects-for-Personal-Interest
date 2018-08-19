@@ -3,7 +3,7 @@ Projects just for fun, eg. Apply Lasso Technique to Forecast Stock Movement, App
 
 ## For some projects I plotted some pictures:
 
-#### Store the financial data in MySQL
+#### Stored the financial data which has been used later in MySQL
 <img width="1015" alt="mysql_screen_shot" src="https://user-images.githubusercontent.com/33269462/44306113-edaebe80-a355-11e8-8c1f-6706270b3c4f.png">
 
 
