@@ -9,6 +9,7 @@ Projects just for fun, eg. Apply Lasso Technique to Forecast Stock Movement, App
 
 
 
+#### Employed Affinity Propagation among clustering techniques to extract stock market structure from variations in historical quotes
 #### Visualized market by laying out different symbols and their correlation on a 2D canvas using manifold learning techniques
 
 ![visualization](https://user-images.githubusercontent.com/33269462/44306107-d8399480-a355-11e8-85df-f031a3a589a2.png)
