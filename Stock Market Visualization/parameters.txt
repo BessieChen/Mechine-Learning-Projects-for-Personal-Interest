@@ -1,0 +1,8 @@
+Algorithm Parameters
+Note: Not all stocks are supported in the Quandl 'Wiki' database.
+=======================
+Stocks to Forecast (Comma Separated Valid Tickers):
+AAPL, ADBE, ABBV, LUK, MAC, MSFT, PNR, PPL, PSA, SLB
+
+Forecast Period (Integer):
+7
